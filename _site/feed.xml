@@ -6,9 +6,33 @@
 </description>
     <link>http://localhost:4000/Ion-Jekyll-Theme/</link>
     <atom:link href="http://localhost:4000/Ion-Jekyll-Theme/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Tue, 14 Feb 2017 19:26:40 -0600</pubDate>
-    <lastBuildDate>Tue, 14 Feb 2017 19:26:40 -0600</lastBuildDate>
-    <generator>Jekyll v3.4.0</generator>
+    <pubDate>Wed, 15 Feb 2017 11:22:29 -0600</pubDate>
+    <lastBuildDate>Wed, 15 Feb 2017 11:22:29 -0600</lastBuildDate>
+    <generator>Jekyll v3.3.1</generator>
+    
+      <item>
+        <title>Googlemaps</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/Ion-Jekyll-Theme/images/google_maps.jpg&quot; class=&quot;fit image&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Article about how google maps makes you dependent&lt;/p&gt;
+</description>
+        <pubDate>Mon, 13 Feb 2017 00:00:00 -0600</pubDate>
+        <link>http://localhost:4000/Ion-Jekyll-Theme/2017/02/13/Googlemaps.html</link>
+        <guid isPermaLink="true">http://localhost:4000/Ion-Jekyll-Theme/2017/02/13/Googlemaps.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Traffic</title>
+        <description>&lt;p&gt;Ranting article about how traffic sucks&lt;/p&gt;
+</description>
+        <pubDate>Fri, 10 Feb 2017 00:00:00 -0600</pubDate>
+        <link>http://localhost:4000/Ion-Jekyll-Theme/2017/02/10/Traffic.html</link>
+        <guid isPermaLink="true">http://localhost:4000/Ion-Jekyll-Theme/2017/02/10/Traffic.html</guid>
+        
+        
+      </item>
     
   </channel>
 </rss>
