@@ -1,5 +1,7 @@
 ---
 layout: post
+title: Googlemaps self destruct
+categories: humor
 ---
 <img src="{{ site.baseurl }}/images/google_maps.jpg" class="fit image">
 

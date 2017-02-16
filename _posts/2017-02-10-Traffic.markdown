@@ -1,5 +1,7 @@
 ---
 layout: post
+title: Traffic Sucks
+categories: humor
 ---
 
 Ranting article about how traffic sucks
