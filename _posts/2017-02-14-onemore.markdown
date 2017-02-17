@@ -1,0 +1,9 @@
+---
+layout: post
+title: One more article for good measure
+categories: serious
+---
+
+
+
+Another example article

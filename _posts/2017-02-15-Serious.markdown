@@ -1,0 +1,9 @@
+---
+layout: post
+title: Something Serious
+categories: serious
+---
+
+
+
+Something serious that Alex wrote
